@@ -1,0 +1,581 @@
+06/07/2024, 09-28-13:[PORT 53]:www.msn.com. 
+06/07/2024, 09-28-13:[PORT 53]:srtb.msn.com. 
+06/07/2024, 09-28-17:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 09-28-20:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-28-24:[focused_window]:None 
+06/07/2024, 09-28-24:[focused_window]: 
+06/07/2024, 09-28-25:[focused_window]:‫ללא שם - Google Chrome‬ 
+06/07/2024, 09-28-25:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+06/07/2024, 09-28-25:[PORT 53]:clientservices.googleapis.com. 
+06/07/2024, 09-28-25:[PORT 53]:tichonbg.schooly.co.il. 
+06/07/2024, 09-28-26:[PORT 53]:accounts.google.com. 
+06/07/2024, 09-28-26:[PORT 53]:www.gstatic.com. 
+06/07/2024, 09-28-26:[PORT 53]:officeclient.microsoft.com. 
+06/07/2024, 09-28-27:[focused_window]:‫ללא שם - Google Chrome‬ 
+06/07/2024, 09-28-27:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 09-28-27:[PORT 53]:use.fontawesome.com. 
+06/07/2024, 09-28-27:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+06/07/2024, 09-28-27:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 09-28-28:[PORT 53]:drive.google.com. 
+06/07/2024, 09-28-28:[PORT 53]:www.walla.co.il. 
+06/07/2024, 09-28-28:[PORT 53]:sstats.adobe.com. 
+06/07/2024, 09-28-28:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 09-28-29:[PORT 53]:fonts.googleapis.com. 
+06/07/2024, 09-28-29:[PORT 53]:a.nel.cloudflare.com. 
+06/07/2024, 09-28-29:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 09-28-29:[PORT 53]:ssl.gstatic.com. 
+06/07/2024, 09-28-29:[PORT 53]:content.googleapis.com. 
+06/07/2024, 09-28-29:[PORT 53]:content-autofill.googleapis.com. 
+06/07/2024, 09-28-30:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+06/07/2024, 09-28-30:[PORT 53]:storeedgefd.dsx.mp.microsoft.com. 
+06/07/2024, 09-28-32:[PORT 53]:encrypted-tbn0.gstatic.com. 
+06/07/2024, 09-28-33:[PORT 53]:update.googleapis.com. 
+06/07/2024, 09-28-33:[PORT 53]:clients2.googleusercontent.com. 
+06/07/2024, 09-28-34:[PORT 53]:www.gstatic.com. 
+06/07/2024, 09-28-34:[focused_window]:‫walla - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 09-28-35:[PORT 53]:id.google.com. 
+06/07/2024, 09-28-35:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 09-28-36:[PORT 53]:play.google.com. 
+06/07/2024, 09-28-37:[PORT 53]:waa-pa.clients6.google.com. 
+06/07/2024, 09-28-47:[PORT 53]:go.microsoft.com. 
+06/07/2024, 09-28-50:[PORT 53]:dns.google. 
+06/07/2024, 09-28-53:[PORT 53]:dns.google. 
+06/07/2024, 09-29-00:[PORT 53]:edgedl.me.gvt1.com. 
+06/07/2024, 09-29-07:[PORT 53]:dl-debug.dropbox.com. 
+06/07/2024, 09-29-10:[PORT 53]:collector.azure.eaglex.ic.gov. 
+06/07/2024, 09-29-11:[PORT 53]:cp801.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 09-29-14:[PORT 53]:gateway.icloud.com. 
+06/07/2024, 09-29-17:[PORT 53]:dns.google. 
+06/07/2024, 09-29-21:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 09-29-22:[focused_window]:None 
+06/07/2024, 09-29-22:[focused_window]:client 
+06/07/2024, 09-29-25:[PORT 53]:update.googleapis.com. 
+06/07/2024, 09-29-28:[focused_window]: 
+06/07/2024, 09-29-35:[keypress]:walla[enter]defe=[backspace][backspace] 
+06/07/2024, 09-29-35:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 09-29-35:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 09-29-35:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 09-29-35:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 09-29-37:[keypress]:[backspace][backspace]firewall 
+06/07/2024, 09-29-38:[PORT 53]:dns.google. 
+06/07/2024, 09-29-39:[focused_window]:Windows Security 
+06/07/2024, 09-29-40:[PORT 53]:www.google.com. 
+06/07/2024, 09-29-44:[PORT 53]:16-courier.push.apple.com. 
+06/07/2024, 09-29-45:[PORT 53]:ecs.office.com. 
+06/07/2024, 09-29-48:[PORT 53]:kv801.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 09-29-48:[focused_window]:client 
+06/07/2024, 09-29-49:[focused_window]:None 
+06/07/2024, 09-29-49:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 09-29-49:[PORT 53]:slscr.update.microsoft.com. 
+06/07/2024, 09-29-54:[focused_window]:None 
+06/07/2024, 09-29-54:[focused_window]:client 
+06/07/2024, 09-29-55:[PORT 53]:clients1.google.com. 
+06/07/2024, 09-30-02:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 09-30-15:[PORT 53]:ts.eset.com. 
+06/07/2024, 09-30-22:[PORT 53]:lb._dns-sd._udp.0.0.16.172.in-addr.arpa. 
+06/07/2024, 09-30-36:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-30-41:[PORT 53]:conn-service-us-04.allawnos.com. 
+06/07/2024, 09-30-44:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 09-30-54:[PORT 53]:settings-win.data.microsoft.com. 
+06/07/2024, 09-30-55:[PORT 53]:ctldl.windowsupdate.com. 
+06/07/2024, 09-31-11:[PORT 53]:ping-edge.smartscreen.microsoft.com. 
+06/07/2024, 09-31-11:[PORT 53]:data-edge.smartscreen.microsoft.com. 
+06/07/2024, 09-31-17:[PORT 53]:definitionupdates.microsoft.com. 
+06/07/2024, 09-31-29:[PORT 53]:dns.google. 
+06/07/2024, 09-31-42:[PORT 53]:update.googleapis.com. 
+06/07/2024, 09-32-07:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-32-15:[PORT 53]:ctldl.windowsupdate.com. 
+06/07/2024, 09-32-33:[PORT 53]:dns.google. 
+06/07/2024, 09-32-55:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 09-32-58:[PORT 53]:wdcp.microsoft.com. 
+06/07/2024, 09-33-01:[PORT 53]:eu-central-courier-4.push-apple.com.akadns.net. 
+06/07/2024, 09-33-42:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 09-34-01:[PORT 53]:az700632.vo.msecnd.net. 
+06/07/2024, 09-34-01:[PORT 53]:go.microsoft.com. 
+06/07/2024, 09-34-01:[PORT 53]:targetednotifications-tm.trafficmanager.net. 
+06/07/2024, 09-34-04:[PORT 53]:dns.google. 
+06/07/2024, 09-34-05:[PORT 53]:download.visualstudio.microsoft.com. 
+06/07/2024, 09-34-07:[PORT 53]:az667904.vo.msecnd.net. 
+06/07/2024, 09-34-22:[PORT 53]:dns.google. 
+06/07/2024, 09-34-43:[PORT 53]:events.data.microsoft.com. 
+06/07/2024, 09-34-43:[PORT 53]:vortex.data.microsoft.com. 
+06/07/2024, 09-35-08:[PORT 53]:login.microsoftonline.com. 
+06/07/2024, 09-35-18:[PORT 53]:dns.google. 
+06/07/2024, 09-35-27:[PORT 53]:www.google.com. 
+06/07/2024, 09-35-28:[PORT 53]:go.microsoft.com. 
+06/07/2024, 09-35-41:[PORT 53]:login.microsoftonline.com. 
+06/07/2024, 09-35-50:[PORT 53]:login.live.com. 
+06/07/2024, 09-35-52:[PORT 53]:mask.icloud.com. 
+06/07/2024, 09-35-57:[PORT 53]:time-b.timefreq.bldrdoc.gov. 
+06/07/2024, 09-35-57:[PORT 53]:time-b.timefreq.bldrdoc.gov. 
+06/07/2024, 09-35-57:[PORT 53]:time-c.timefreq.bldrdoc.gov. 
+06/07/2024, 09-35-57:[PORT 53]:zonedirector. 
+06/07/2024, 09-35-58:[PORT 53]:settings-win.data.microsoft.com. 
+06/07/2024, 09-35-58:[PORT 53]:ocsp.digicert.com. 
+06/07/2024, 09-35-59:[PORT 53]:x2.c.lencr.org. 
+06/07/2024, 09-36-00:[PORT 53]:lb._dns-sd._udp.139.120.146.10.in-addr.arpa. 
+06/07/2024, 09-36-01:[PORT 53]:captive.apple.com. 
+06/07/2024, 09-36-01:[PORT 53]:dns.google. 
+06/07/2024, 09-36-02:[PORT 53]:dns.google. 
+06/07/2024, 09-36-02:[PORT 53]:dns.msftncsi.com. 
+06/07/2024, 09-36-02:[PORT 53]:dns.msftncsi.com. 
+06/07/2024, 09-36-03:[PORT 53]:prod.detectportal.prod.cloudops.mozgcp.net. 
+06/07/2024, 09-36-03:[PORT 53]:lb._dns-sd._udp.236.155.2.10.in-addr.arpa. 
+06/07/2024, 09-36-03:[PORT 53]:edgeservices.bing.com. 
+06/07/2024, 09-36-04:[PORT 53]:dns.google. 
+06/07/2024, 09-36-04:[PORT 53]:dns.google. 
+06/07/2024, 09-36-05:[PORT 53]:www.google.com. 
+06/07/2024, 09-36-06:[PORT 53]:lb._dns-sd._udp.0.0.0.10.in-addr.arpa. 
+06/07/2024, 09-36-06:[PORT 53]:dns.google. 
+06/07/2024, 09-36-07:[PORT 53]:ssl.gstatic.com. 
+06/07/2024, 09-36-12:[PORT 53]:i.instagram.com. 
+06/07/2024, 09-36-12:[PORT 53]:lb._dns-sd._udp.0.0.16.172.in-addr.arpa. 
+06/07/2024, 09-36-15:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-36-16:[PORT 53]:youtube-ui.l.google.com. 
+06/07/2024, 09-36-20:[PORT 53]:mail.google.com. 
+06/07/2024, 09-36-23:[PORT 53]:play.googleapis.com. 
+06/07/2024, 09-36-34:[PORT 53]:dns.google. 
+06/07/2024, 09-36-34:[PORT 53]:dns.google. 
+06/07/2024, 09-36-37:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-36-38:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 09-36-40:[PORT 53]:play.google.com. 
+06/07/2024, 09-36-48:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-36-55:[PORT 53]:push.services.mozilla.com. 
+06/07/2024, 09-36-57:[PORT 53]:dns.google. 
+06/07/2024, 09-37-04:[PORT 53]:x1.c.lencr.org. 
+06/07/2024, 09-37-04:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 09-37-13:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-37-17:[PORT 53]:nexusrules.officeapps.live.com. 
+06/07/2024, 09-37-27:[PORT 53]:ecs.office.com. 
+06/07/2024, 09-37-32:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 09-37-43:[PORT 53]:dns.google. 
+06/07/2024, 09-38-18:[PORT 53]:www.xboxab.com. 
+06/07/2024, 09-38-28:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 09-38-32:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-38-38:[PORT 53]:time-b.timefreq.bldrdoc.gov. 
+06/07/2024, 09-38-39:[PORT 53]:www.google.com. 
+06/07/2024, 09-38-40:[PORT 53]:time-a.timefreq.bldrdoc.gov. 
+06/07/2024, 09-38-40:[PORT 53]:assets.msn.com. 
+06/07/2024, 09-38-41:[PORT 53]:login.live.com. 
+06/07/2024, 09-38-42:[PORT 53]:wpad.bengdomain2.local. 
+06/07/2024, 09-38-43:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 09-38-43:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 09-38-43:[PORT 53]:RuckusController. 
+06/07/2024, 09-38-44:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-38-44:[PORT 53]:apis.kahoot.it. 
+06/07/2024, 09-38-45:[PORT 53]:wpad.bengdomain2.local. 
+06/07/2024, 09-38-45:[PORT 53]:waa-pa.clients6.google.com. 
+06/07/2024, 09-38-46:[PORT 53]:RuckusController. 
+06/07/2024, 09-38-48:[PORT 53]:www.google.com. 
+06/07/2024, 09-38-48:[PORT 53]:login.microsoftonline.com. 
+06/07/2024, 09-38-49:[PORT 53]:ocsp.digicert.com. 
+06/07/2024, 09-38-50:[PORT 53]:play.google.com. 
+06/07/2024, 09-38-51:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-38-51:[PORT 53]:edge-web.dual-gslb.spotify.com. 
+06/07/2024, 09-38-51:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 09-38-59:[PORT 53]:lb._dns-sd._udp.0.0.16.172.in-addr.arpa. 
+06/07/2024, 09-39-03:[PORT 53]:www.google.com. 
+06/07/2024, 09-39-08:[PORT 53]:www.google.com. 
+06/07/2024, 09-39-12:[PORT 53]:apple.com. 
+06/07/2024, 09-39-13:[PORT 53]:dns.google. 
+06/07/2024, 09-39-15:[PORT 53]:waa-pa.clients6.google.com. 
+06/07/2024, 09-39-20:[PORT 53]:dns.google. 
+06/07/2024, 09-39-21:[PORT 53]:login.live.com. 
+06/07/2024, 09-39-22:[PORT 53]:fd.api.iris.microsoft.com. 
+06/07/2024, 09-39-23:[PORT 53]:query.prod.cms.rt.microsoft.com. 
+06/07/2024, 09-39-27:[PORT 53]:dns.google. 
+06/07/2024, 09-39-30:[PORT 53]:gameplay.intel.com. 
+06/07/2024, 09-39-32:[PORT 53]:dyna.wikimedia.org. 
+06/07/2024, 09-39-40:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-39-42:[PORT 53]:gateway.icloud.com. 
+06/07/2024, 09-39-45:[PORT 53]:ecs.office.com. 
+06/07/2024, 09-39-53:[PORT 53]:login.live.com. 
+06/07/2024, 09-40-03:[PORT 53]:www.google.com. 
+06/07/2024, 09-40-03:[PORT 53]:search16-normal-c-alisg.tiktokv.com. 
+06/07/2024, 09-40-06:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-40-27:[PORT 53]:dns.google. 
+06/07/2024, 09-40-30:[PORT 53]:catalog.gamepass.com. 
+06/07/2024, 09-40-54:[PORT 53]:msedge.b.tlu.dl.delivery.mp.microsoft.com. 
+06/07/2024, 09-40-55:[PORT 53]:dns.google. 
+06/07/2024, 09-41-00:[PORT 53]:cp801.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 09-41-15:[PORT 53]:dns.google. 
+06/07/2024, 09-41-19:[PORT 53]:www.google.com. 
+06/07/2024, 09-41-25:[PORT 53]:dns.google. 
+06/07/2024, 09-41-31:[PORT 53]:dns.google. 
+06/07/2024, 09-41-45:[PORT 53]:lb._dns-sd._udp.230.149.127.100.in-addr.arpa. 
+06/07/2024, 09-41-49:[PORT 53]:pti.store.microsoft.com. 
+06/07/2024, 09-41-58:[PORT 53]:nexusrules.officeapps.live.com. 
+06/07/2024, 09-42-12:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-42-27:[PORT 53]:telemetry-incoming.r53-2.services.mozilla.com. 
+06/07/2024, 09-42-59:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-42-59:[PORT 53]:dns.google. 
+06/07/2024, 09-43-07:[PORT 53]:www.google.com. 
+06/07/2024, 09-43-25:[PORT 53]:dns.google. 
+06/07/2024, 09-43-25:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-43-28:[PORT 53]:dit.whatsapp.net. 
+06/07/2024, 09-43-29:[PORT 53]:www.google.com. 
+06/07/2024, 09-43-29:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-43-32:[PORT 53]:sync-dmp.aura-dsp.com. 
+06/07/2024, 09-43-32:[PORT 53]:dns.google. 
+06/07/2024, 09-43-43:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-43-56:[PORT 53]:dns.google. 
+06/07/2024, 09-44-13:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-44-18:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-44-23:[PORT 53]:www.google.com. 
+06/07/2024, 09-44-24:[PORT 53]:comm-main.ess.apple.com. 
+06/07/2024, 09-44-36:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-44-44:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-45-06:[PORT 53]:apidata.googleusercontent.com. 
+06/07/2024, 09-45-13:[PORT 53]:BENGDOMAIN.LOCAL. 
+06/07/2024, 09-45-26:[PORT 53]:gateway.icloud.com. 
+06/07/2024, 09-45-26:[PORT 53]:iphone-ld.apple.com. 
+06/07/2024, 09-45-38:[PORT 53]:www.msn.com. 
+06/07/2024, 09-45-39:[PORT 53]:edge.microsoft.com. 
+06/07/2024, 09-45-39:[PORT 53]:www.msn.com. 
+06/07/2024, 09-45-39:[PORT 53]:assets.msn.com. 
+06/07/2024, 09-45-40:[PORT 53]:img-s-msn-com.akamaized.net. 
+06/07/2024, 09-45-41:[PORT 53]:img-s-msn-com.akamaized.net. 
+06/07/2024, 09-45-58:[PORT 53]:lb._dns-sd._udp.0.0.16.172.in-addr.arpa. 
+06/07/2024, 09-45-59:[PORT 53]:login.microsoftonline.com. 
+06/07/2024, 09-46-08:[PORT 53]:assets.msn.com. 
+06/07/2024, 09-46-13:[PORT 53]:msedge.b.tlu.dl.delivery.mp.microsoft.com. 
+06/07/2024, 09-46-15:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-46-33:[PORT 53]:fd.api.iris.microsoft.com. 
+06/07/2024, 09-46-35:[PORT 53]:query.prod.cms.rt.microsoft.com. 
+06/07/2024, 09-46-37:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-46-41:[PORT 53]:time-b.timefreq.bldrdoc.gov. 
+06/07/2024, 09-46-41:[PORT 53]:www.google.com. 
+06/07/2024, 09-46-42:[PORT 53]:lb._dns-sd._udp.0.0.16.172.in-addr.arpa. 
+06/07/2024, 09-46-42:[PORT 53]:dns.google. 
+06/07/2024, 09-48-34:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 09-48-51:[PORT 53]:Akbpen-dnsotls-ds.metric.gstatic.com. 
+06/07/2024, 09-49-06:[PORT 53]:gsp85-ssl.ls.apple.com. 
+06/07/2024, 09-49-12:[PORT 53]:dns.google. 
+06/07/2024, 09-49-13:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 09-49-15:[PORT 53]:nexusrules.officeapps.live.com. 
+06/07/2024, 09-49-25:[PORT 53]:oneclient.sfx.ms. 
+06/07/2024, 09-49-34:[PORT 53]:BENGSERVER1.BENGDOMAIN.LOCAL. 
+06/07/2024, 09-49-38:[PORT 53]:th.bing.com. 
+06/07/2024, 09-49-44:[PORT 53]:dns.google. 
+06/07/2024, 09-49-46:[PORT 53]:bgserver2.bengdomain2.local. 
+06/07/2024, 09-50-02:[PORT 53]:self.events.data.microsoft.com. 
+06/07/2024, 09-50-29:[focused_window]:None 
+06/07/2024, 09-50-29:[focused_window]:client 
+06/07/2024, 09-50-36:[focused_window]:None 
+06/07/2024, 09-50-36:[focused_window]: 
+06/07/2024, 09-50-36:[focused_window]:None 
+06/07/2024, 09-50-36:[focused_window]:‫דרו קרופורד - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 09-50-38:[PORT 53]:www.youtube.com. 
+06/07/2024, 09-50-38:[PORT 53]:play.google.com. 
+06/07/2024, 09-52-29:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 10-01-02:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 10-01-07:[PORT 53]:assets.msn.com. 
+06/07/2024, 10-01-12:[focused_window]:None 
+06/07/2024, 10-01-12:[focused_window]: 
+06/07/2024, 10-01-12:[focused_window]:‫ללא שם - Google Chrome‬ 
+06/07/2024, 10-01-13:[PORT 53]:clientservices.googleapis.com. 
+06/07/2024, 10-01-13:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 10-01-13:[PORT 53]:use.fontawesome.com. 
+06/07/2024, 10-01-13:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+06/07/2024, 10-01-13:[PORT 53]:a.nel.cloudflare.com. 
+06/07/2024, 10-01-14:[PORT 53]:play.google.com. 
+06/07/2024, 10-01-14:[PORT 53]:content.googleapis.com. 
+06/07/2024, 10-01-16:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-01-17:[PORT 53]:www.google.com. 
+06/07/2024, 10-01-19:[PORT 53]:wdcp.microsoft.com. 
+06/07/2024, 10-01-22:[PORT 53]:optimizationguide-pa.googleapis.com. 
+06/07/2024, 10-01-27:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 10-01-40:[PORT 53]:www.google.com. 
+06/07/2024, 10-01-40:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 10-01-50:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 10-01-56:[PORT 53]:msedge.b.tlu.dl.delivery.mp.microsoft.com. 
+06/07/2024, 10-01-57:[PORT 53]:dns.google. 
+06/07/2024, 10-01-57:[PORT 53]:zonedirector. 
+06/07/2024, 10-01-57:[PORT 53]:optimizationguide-pa.googleapis.com. 
+06/07/2024, 10-01-57:[PORT 53]:time-c.timefreq.bldrdoc.gov. 
+06/07/2024, 10-01-57:[PORT 53]:time-a.timefreq.bldrdoc.gov. 
+06/07/2024, 10-01-57:[PORT 53]:edge-microsoft-com.dual-a-0036.a-msedge.net. 
+06/07/2024, 10-01-57:[PORT 53]:RuckusController. 
+06/07/2024, 10-01-58:[PORT 53]:www.google.com. 
+06/07/2024, 10-01-59:[PORT 53]:gameplay.intel.com. 
+06/07/2024, 10-02-00:[PORT 53]:wpad.bengdomain2.local. 
+06/07/2024, 10-02-00:[PORT 53]:_ldap._tcp.Default-First-Site-Name._sites.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-02-01:[PORT 53]:arc.msn.com. 
+06/07/2024, 10-02-01:[PORT 53]:RuckusController. 
+06/07/2024, 10-02-03:[PORT 53]:www.google.com. 
+06/07/2024, 10-02-06:[PORT 53]:go.microsoft.com. 
+06/07/2024, 10-02-08:[PORT 53]:waa-pa.clients6.google.com. 
+06/07/2024, 10-02-08:[PORT 53]:www.google.com. 
+06/07/2024, 10-02-09:[PORT 53]:dns.google. 
+06/07/2024, 10-02-10:[PORT 53]:lb._dns-sd._udp.199.118.139.10.in-addr.arpa. 
+06/07/2024, 10-02-12:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-02-13:[PORT 53]:dns.google. 
+06/07/2024, 10-02-14:[PORT 53]:mask.icloud.com. 
+06/07/2024, 10-02-16:[PORT 53]:dns.adguard.com. 
+06/07/2024, 10-02-23:[PORT 53]:gsp85-ssl.ls.apple.com. 
+06/07/2024, 10-02-23:[PORT 53]:gsp85-ssl.ls2-apple.com.akadns.net. 
+06/07/2024, 10-02-32:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 10-02-37:[PORT 53]:msedge.b.tlu.dl.delivery.mp.microsoft.com. 
+06/07/2024, 10-02-38:[PORT 53]:www.google.com. 
+06/07/2024, 10-02-40:[PORT 53]:wdcp.microsoft.com. 
+06/07/2024, 10-02-40:[PORT 53]:dns.google. 
+06/07/2024, 10-02-46:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-02-46:[PORT 53]:accounts.google.com. 
+06/07/2024, 10-02-47:[PORT 53]:cdnjs.cloudflare.com. 
+06/07/2024, 10-02-47:[PORT 53]:drive.google.com. 
+06/07/2024, 10-02-47:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 10-02-50:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-02-53:[PORT 53]:dns.google. 
+06/07/2024, 10-02-54:[PORT 53]:connectivitycheck.gstatic.com. 
+06/07/2024, 10-02-57:[PORT 53]:watson.events.data.microsoft.com. 
+06/07/2024, 10-02-59:[PORT 53]:play.google.com. 
+06/07/2024, 10-03-02:[PORT 53]:_dns.resolver.arpa. 
+06/07/2024, 10-03-04:[PORT 53]:www.google.com. 
+06/07/2024, 10-03-06:[PORT 53]:dns.google. 
+06/07/2024, 10-03-12:[PORT 53]:dns.google. 
+06/07/2024, 10-03-16:[PORT 53]:ogs.google.com. 
+06/07/2024, 10-03-17:[PORT 53]:www.google.com. 
+06/07/2024, 10-03-19:[PORT 53]:_ldap._tcp.Default-First-Site-Name._sites.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-03-21:[PORT 53]:datarouter.ol.epicgames.com. 
+06/07/2024, 10-03-25:[PORT 53]:nav.smartscreen.microsoft.com. 
+06/07/2024, 10-03-35:[PORT 53]:www.msn.com. 
+06/07/2024, 10-03-35:[PORT 53]:windows.msn.com. 
+06/07/2024, 10-03-46:[PORT 53]:safebrowsing.googleapis.com. 
+06/07/2024, 10-03-48:[PORT 53]:self.events.data.microsoft.com. 
+06/07/2024, 10-03-49:[PORT 53]:officecdn.microsoft.com. 
+06/07/2024, 10-03-50:[PORT 53]:storeedgefd.dsx.mp.microsoft.com. 
+06/07/2024, 10-03-53:[PORT 53]:officecdn.microsoft.com. 
+06/07/2024, 10-03-53:[PORT 53]:settings-win.data.microsoft.com. 
+06/07/2024, 10-03-55:[PORT 53]:edge.microsoft.com. 
+06/07/2024, 10-03-55:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-03-55:[PORT 53]:officecdn.microsoft.com. 
+06/07/2024, 10-03-56:[PORT 53]:dns.google. 
+06/07/2024, 10-03-56:[PORT 53]:api.msn.com. 
+06/07/2024, 10-03-57:[PORT 53]:assets.msn.com. 
+06/07/2024, 10-03-58:[PORT 53]:th.bing.com. 
+06/07/2024, 10-03-58:[PORT 53]:www.bing.com. 
+06/07/2024, 10-04-02:[PORT 53]:ctldl.windowsupdate.com. 
+06/07/2024, 10-04-02:[PORT 53]:fs.microsoft.com. 
+06/07/2024, 10-04-03:[PORT 53]:self.events.data.microsoft.com. 
+06/07/2024, 10-04-04:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-04-05:[PORT 53]:settings-win.data.microsoft.com. 
+06/07/2024, 10-04-05:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-05:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-06:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-07:[keypress]:[ctrl][ctrl][ctrl][ctrl][ctrl] 
+06/07/2024, 10-04-10:[PORT 53]:cp801.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 10-04-10:[PORT 53]:officecdn.microsoft.com. 
+06/07/2024, 10-04-11:[PORT 53]:disc801.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 10-04-11:[PORT 53]:officecdn.microsoft.com. 
+06/07/2024, 10-04-15:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+06/07/2024, 10-04-15:[PORT 53]:www.google.com. 
+06/07/2024, 10-04-15:[PORT 53]:content.googleapis.com. 
+06/07/2024, 10-04-16:[PORT 53]:play.google.com. 
+06/07/2024, 10-04-21:[focused_window]:None 
+06/07/2024, 10-04-21:[focused_window]: 
+06/07/2024, 10-04-22:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 10-05-04:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 10-05-11:[focused_window]: 
+06/07/2024, 10-05-14:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 10-05-30:[focused_window]:Windows Command Processor - python  "C:\Users\Talmid1\Desktop\.final project\client\client.py" 
+06/07/2024, 10-05-36:[focused_window]:None 
+06/07/2024, 10-05-36:[focused_window]: 
+06/07/2024, 10-05-36:[focused_window]:‫ללא שם - Google Chrome‬ 
+06/07/2024, 10-05-37:[PORT 53]:clientservices.googleapis.com. 
+06/07/2024, 10-05-37:[PORT 53]:accounts.google.com. 
+06/07/2024, 10-05-37:[PORT 53]:stackpath.bootstrapcdn.com. 
+06/07/2024, 10-05-37:[PORT 53]:use.fontawesome.com. 
+06/07/2024, 10-05-37:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+06/07/2024, 10-05-37:[PORT 53]:drive.google.com. 
+06/07/2024, 10-05-38:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 10-05-38:[PORT 53]:accounts.google.com. 
+06/07/2024, 10-05-38:[PORT 53]:apis.google.com. 
+06/07/2024, 10-05-40:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-05-40:[PORT 53]:self.events.data.microsoft.com. 
+06/07/2024, 10-05-41:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+06/07/2024, 10-05-43:[PORT 53]:www.google.com. 
+06/07/2024, 10-05-43:[PORT 53]:play.google.com. 
+06/07/2024, 10-05-45:[PORT 53]:encrypted-tbn0.gstatic.com. 
+06/07/2024, 10-05-45:[PORT 53]:lh5.googleusercontent.com. 
+06/07/2024, 10-05-47:[keypress]:shalom[space]how[space]arte[space] 
+06/07/2024, 10-05-49:[PORT 53]:edge.microsoft.com. 
+06/07/2024, 10-05-50:[PORT 53]:www.gstatic.com. 
+06/07/2024, 10-05-50:[focused_window]:‫shalom how arte you today - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-05-51:[PORT 53]:i.ytimg.com. 
+06/07/2024, 10-05-52:[PORT 53]:play.google.com. 
+06/07/2024, 10-05-52:[PORT 53]:i.ytimg.com. 
+06/07/2024, 10-05-52:[PORT 53]:static.doubleclick.net. 
+06/07/2024, 10-05-52:[PORT 53]:jnn-pa.googleapis.com. 
+06/07/2024, 10-05-53:[PORT 53]:jnn-pa.googleapis.com. 
+06/07/2024, 10-05-56:[PORT 53]:jnn-pa.googleapis.com. 
+06/07/2024, 10-05-57:[PORT 53]:jnn-pa.googleapis.com. 
+06/07/2024, 10-05-59:[focused_window]:‫shalom how are you today - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-06:[keypress]:you[space]today[enter][ctrl]ab 
+06/07/2024, 10-06-07:[PORT 53]:encrypted-tbn0.gstatic.com. 
+06/07/2024, 10-06-08:[focused_window]:‫bbc - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-09:[PORT 53]:www.bbc.com. 
+06/07/2024, 10-06-09:[PORT 53]:cdn.optimizely.com. 
+06/07/2024, 10-06-09:[focused_window]:‪BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio - Google Chrome‬ 
+06/07/2024, 10-06-10:[PORT 53]:cdn.optimizely.com. 
+06/07/2024, 10-06-10:[PORT 53]:securepubads.g.doubleclick.net. 
+06/07/2024, 10-06-10:[PORT 53]:content-autofill.googleapis.com. 
+06/07/2024, 10-06-10:[PORT 53]:a4621041136.cdn.optimizely.com. 
+06/07/2024, 10-06-10:[PORT 53]:prebid.the-ozone-project.com. 
+06/07/2024, 10-06-10:[PORT 53]:xproxy.api.bbc.com. 
+06/07/2024, 10-06-10:[PORT 53]:idcta.api.bbc.com. 
+06/07/2024, 10-06-10:[PORT 53]:a1.api.bbc.co.uk. 
+06/07/2024, 10-06-10:[PORT 53]:a1.api.bbc.co.uk. 
+06/07/2024, 10-06-11:[PORT 53]:pub.doubleverify.com. 
+06/07/2024, 10-06-11:[PORT 53]:logx.optimizely.com. 
+06/07/2024, 10-06-11:[PORT 53]:pixel.adsafeprotected.com. 
+06/07/2024, 10-06-12:[PORT 53]:2d6e312b3260d9a73eb1c78aaf24bd85.safeframe.googlesyndication.com. 
+06/07/2024, 10-06-12:[PORT 53]:2d6e312b3260d9a73eb1c78aaf24bd85.safeframe.googlesyndication.com. 
+06/07/2024, 10-06-12:[PORT 53]:pagead2.googlesyndication.com. 
+06/07/2024, 10-06-12:[PORT 53]:tpc.googlesyndication.com. 
+06/07/2024, 10-06-14:[PORT 53]:edge-mqtt.facebook.com. 
+06/07/2024, 10-06-15:[PORT 53]:dns.google. 
+06/07/2024, 10-06-15:[PORT 53]:e673.dsce9.akamaiedge.net. 
+06/07/2024, 10-06-19:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-06-19:[PORT 53]:www.dianomi.com. 
+06/07/2024, 10-06-20:[PORT 53]:securepubads.g.doubleclick.net. 
+06/07/2024, 10-06-20:[PORT 53]:tps.doubleverify.com. 
+06/07/2024, 10-06-20:[PORT 53]:static.adsafeprotected.com. 
+06/07/2024, 10-06-20:[PORT 53]:www.googletagservices.com. 
+06/07/2024, 10-06-20:[PORT 53]:publickeyservice.msmt.gcp.privacysandboxservices.com. 
+06/07/2024, 10-06-21:[PORT 53]:dt.adsafeprotected.com. 
+06/07/2024, 10-06-21:[PORT 53]:secure-assets.rubiconproject.com. 
+06/07/2024, 10-06-21:[PORT 53]:eus.rubiconproject.com. 
+06/07/2024, 10-06-21:[PORT 53]:server.prebid.dianomi.com. 
+06/07/2024, 10-06-22:[focused_window]:‫bbc - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-25:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 10-06-25:[PORT 53]:www.googleadservices.com. 
+06/07/2024, 10-06-25:[PORT 53]:www.googleadservices.com. 
+06/07/2024, 10-06-27:[keypress]:bc[enter]te3ste[backspace]ing[enter] 
+06/07/2024, 10-06-27:[focused_window]:‫te3sting - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-29:[PORT 53]:watson.events.data.microsoft.com. 
+06/07/2024, 10-06-31:[focused_window]:‫testing - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-36:[PORT 53]:update.googleapis.com. 
+06/07/2024, 10-06-37:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-06-51:[keypress]:[space]testing[space]tesw[backspace] 
+06/07/2024, 10-06-54:[focused_window]:‫testing testing testing - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-06-55:[PORT 53]:i.ytimg.com. 
+06/07/2024, 10-06-56:[PORT 53]:displaycatalog.mp.microsoft.com. 
+06/07/2024, 10-07-06:[PORT 53]:www.google.com. 
+06/07/2024, 10-07-17:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-07-21:[PORT 53]:encrypted-vtbn0.gstatic.com. 
+06/07/2024, 10-07-23:[PORT 53]:store.steampowered.com. 
+06/07/2024, 10-07-23:[PORT 53]:store.akamai.steamstatic.com. 
+06/07/2024, 10-07-23:[focused_window]:‪TEST TEST TEST on Steam - Google Chrome‬ 
+06/07/2024, 10-07-23:[PORT 53]:shared.akamai.steamstatic.com. 
+06/07/2024, 10-07-24:[PORT 53]:content-autofill.googleapis.com. 
+06/07/2024, 10-07-24:[PORT 53]:api.steampowered.com. 
+06/07/2024, 10-07-24:[PORT 53]:connectivitycheck.gstatic.com. 
+06/07/2024, 10-07-31:[focused_window]:‫testing testing testing - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-07-31:[PORT 53]:play.google.com. 
+06/07/2024, 10-07-38:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+06/07/2024, 10-07-54:[focused_window]:‫testing testing testing - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-07-55:[keypress]:ting[enter][ctrl]a[backspace][backspace] 
+06/07/2024, 10-07-56:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 10-07-56:[keypress]:[backspace][backspace][backspace] 
+06/07/2024, 10-07-57:[PORT 53]:encrypted-tbn0.gstatic.com. 
+06/07/2024, 10-07-58:[keypress]:[backspace][backspace]rrandom[space] 
+06/07/2024, 10-07-59:[focused_window]:‫rrandom site - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-08-01:[PORT 53]:play.google.com. 
+06/07/2024, 10-08-01:[PORT 53]:waa-pa.clients6.google.com. 
+06/07/2024, 10-08-01:[PORT 53]:cdn.intergient.com. 
+06/07/2024, 10-08-01:[focused_window]:‪The Useless Web - Google Chrome‬ 
+06/07/2024, 10-08-01:[PORT 53]:fonts.gstatic.com. 
+06/07/2024, 10-08-02:[PORT 53]:ballsbanana.com. 
+06/07/2024, 10-08-02:[PORT 53]:cdn.intergient.com. 
+06/07/2024, 10-08-02:[PORT 53]:impression-inferences-edge-prod.playwire.com. 
+06/07/2024, 10-08-02:[PORT 53]:btloader.com. 
+06/07/2024, 10-08-02:[PORT 53]:config.aps.amazon-adsystem.com. 
+06/07/2024, 10-08-02:[PORT 53]:static.adsafeprotected.com. 
+06/07/2024, 10-08-02:[PORT 53]:ad.doubleclick.net. 
+06/07/2024, 10-08-02:[PORT 53]:config.playwire.com. 
+06/07/2024, 10-08-02:[PORT 53]:carbon-cdn.ccgateway.net. 
+06/07/2024, 10-08-02:[PORT 53]:imasdk.googleapis.com. 
+06/07/2024, 10-08-02:[PORT 53]:aax.amazon-adsystem.com. 
+06/07/2024, 10-08-03:[PORT 53]:grid.bidswitch.net. 
+06/07/2024, 10-08-03:[PORT 53]:ads.pubmatic.com. 
+06/07/2024, 10-08-03:[focused_window]:‫ללא שם - Google Chrome‬ 
+06/07/2024, 10-08-03:[PORT 53]:lb.eu-1-id5-sync.com. 
+06/07/2024, 10-08-03:[PORT 53]:apex.go.sonobi.com. 
+06/07/2024, 10-08-03:[PORT 53]:cm.g.doubleclick.net. 
+06/07/2024, 10-08-03:[PORT 53]:cdn.intergient.com. 
+06/07/2024, 10-08-03:[PORT 53]:www.googletagmanager.com. 
+06/07/2024, 10-08-03:[PORT 53]:dmp.adform.net. 
+06/07/2024, 10-08-03:[PORT 53]:secure.adnxs.com. 
+06/07/2024, 10-08-03:[focused_window]:‪Daily Mini on Maze Toys - Google Chrome‬ 
+06/07/2024, 10-08-04:[PORT 53]:www.google-analytics.com. 
+06/07/2024, 10-08-04:[PORT 53]:sync.srv.stackadapt.com. 
+06/07/2024, 10-08-04:[PORT 53]:static.adsafeprotected.com. 
+06/07/2024, 10-08-04:[PORT 53]:cdn.intergient.com. 
+06/07/2024, 10-08-04:[PORT 53]:btloader.com. 
+06/07/2024, 10-08-04:[PORT 53]:match.sharethrough.com. 
+06/07/2024, 10-08-04:[PORT 53]:config.aps.amazon-adsystem.com. 
+06/07/2024, 10-08-04:[PORT 53]:securepubads.g.doubleclick.net. 
+06/07/2024, 10-08-04:[PORT 53]:cs.media.net. 
+06/07/2024, 10-08-04:[PORT 53]:ps.eyeota.net. 
+06/07/2024, 10-08-04:[PORT 53]:cs.media.net. 
+06/07/2024, 10-08-04:[PORT 53]:eb2.3lift.com. 
+06/07/2024, 10-08-04:[PORT 53]:imasdk.googleapis.com. 
+06/07/2024, 10-08-04:[PORT 53]:id.crwdcntrl.net. 
+06/07/2024, 10-08-04:[PORT 53]:x.bidswitch.net. 
+06/07/2024, 10-08-04:[PORT 53]:ups.analytics.yahoo.com. 
+06/07/2024, 10-08-04:[PORT 53]:match.prod.bidr.io. 
+06/07/2024, 10-08-05:[PORT 53]:slscr.update.microsoft.com. 
+06/07/2024, 10-08-05:[PORT 53]:c1502426418869b6d140c25ac1f69d3f.safeframe.googlesyndication.com. 
+06/07/2024, 10-08-05:[PORT 53]:pogo.ccgateway.net. 
+06/07/2024, 10-08-05:[PORT 53]:ads.pubmatic.com. 
+06/07/2024, 10-08-05:[PORT 53]:bidder.criteo.com. 
+06/07/2024, 10-08-05:[PORT 53]:cm.g.doubleclick.net. 
+06/07/2024, 10-08-05:[PORT 53]:eb2.3lift.com. 
+06/07/2024, 10-08-05:[PORT 53]:gw-iad-bid.ymmobi.com. 
+06/07/2024, 10-08-05:[PORT 53]:match.adsrvr.org. 
+06/07/2024, 10-08-05:[PORT 53]:triplelift-match.dotomi.com. 
+06/07/2024, 10-08-05:[PORT 53]:s.amazon-adsystem.com. 
+06/07/2024, 10-11-42:[focused_window]:C:\Windows\py.exe 
+06/07/2024, 10-11-43:[focused_window]:None 
+06/07/2024, 10-11-43:[focused_window]: 
+06/07/2024, 10-11-43:[focused_window]:None 
+06/07/2024, 10-11-43:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+06/07/2024, 10-11-54:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-11-55:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-11-57:[PORT 53]:dns.google. 
+06/07/2024, 10-11-59:[PORT 53]:go.microsoft.com. 
+06/07/2024, 10-12-01:[PORT 53]:download.visualstudio.microsoft.com. 
+06/07/2024, 10-12-03:[PORT 53]:encrypted-tbn0.gstatic.com. 
+06/07/2024, 10-12-06:[keypress]:testt[space]test[space]test[space] 
+06/07/2024, 10-12-09:[PORT 53]:www.gstatic.com. 
+06/07/2024, 10-12-09:[focused_window]:‫testt test test test - חיפוש ב-Google - Google Chrome‬ 
+06/07/2024, 10-12-10:[PORT 53]:i.ytimg.com. 
+06/07/2024, 10-12-10:[PORT 53]:www.youtube.com. 
+06/07/2024, 10-12-11:[PORT 53]:i.ytimg.com. 
+06/07/2024, 10-12-11:[PORT 53]:jnn-pa.googleapis.com. 
+06/07/2024, 10-12-11:[PORT 53]:play.google.com. 
+06/07/2024, 10-12-12:[PORT 53]:wpad.BENGDOMAIN.LOCAL. 
+06/07/2024, 10-12-20:[PORT 53]:v10.events.data.microsoft.com. 
+06/07/2024, 10-12-21:[PORT 53]:dns.google. 
+06/07/2024, 10-12-28:[PORT 53]:www.google.com. 
+06/07/2024, 10-12-37:[PORT 53]:devicehelper.cisco.com. 
+06/07/2024, 10-12-47:[PORT 53]:arc.msn.com. 
+06/07/2024, 10-12-52:[PORT 53]:zoom.us. 
+06/07/2024, 10-12-53:[PORT 53]:cdn.zoom.us. 
+06/07/2024, 10-13-05:[PORT 53]:assets.msn.com. 
+06/07/2024, 10-13-08:[PORT 53]:www.msn.com. 
+06/07/2024, 10-13-09:[PORT 53]:srtb.msn.com. 
+06/07/2024, 10-13-10:[PORT 53]:array822.prod.do.dsp.mp.microsoft.com. 
+06/07/2024, 10-13-13:[focused_window]:None 
+06/07/2024, 10-13-13:[focused_window]: 
+06/07/2024, 10-13-14:[focused_window]:C:\Windows\py.exe 

@@ -1,0 +1,88 @@
+05/03/2024, 12-53-28:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 12-53-57:[focused_window]:None 
+05/03/2024, 12-53-57:[focused_window]:client 
+05/03/2024, 12-54-02:[focused_window]:None 
+05/03/2024, 12-54-02:[focused_window]: 
+05/03/2024, 12-54-04:[focused_window]:‫ללא שם - Google Chrome‬ 
+05/03/2024, 12-54-04:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 12-54-12:[focused_window]:‪google.com/search?q=mvjfkjvjmnv&rlz=1C1GCEA_enIL1093IL1093&oq=mvjfkjvjmnv&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDE1OTFqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8 - Google Chrome‬ 
+05/03/2024, 12-54-12:[focused_window]:‫mvjfkjvjmnv - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 12-54-17:[focused_window]:‫youtube - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 12-54-19:[focused_window]:‪YouTube - Google Chrome‬ 
+05/03/2024, 12-54-25:[keypress]:mvjfkjvjmnv[enter]youtube[enter][space][space][space] 
+05/03/2024, 12-54-49:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 12-54-53:[keypress]:[space][space][space][space][space][space][space]g 
+05/03/2024, 12-54-54:[keypress]:ogo[backspace][backspace][backspace][backspace][backspace] 
+05/03/2024, 12-55-02:[keypress]:fa[backspace][backspace][backspace][backspace]wa[backspace] 
+05/03/2024, 12-55-09:[focused_window]:‫qura - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 12-55-11:[focused_window]:‫Quora - מקום לשיתוף ידע ולהבנה טובה יותר של העולם - Google Chrome‬ 
+05/03/2024, 12-55-15:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 12-55-17:[keypress]:[backspace][backspace][tab]ququra[space][enter][ctrl] 
+05/03/2024, 12-55-18:[focused_window]:‫ללא שם - Google Chrome‬ 
+05/03/2024, 12-55-19:[focused_window]:‪LinkedIn: Log In or Sign Up - Google Chrome‬ 
+05/03/2024, 12-55-30:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+05/03/2024, 12-55-32:[focused_window]:None 
+05/03/2024, 12-55-32:[focused_window]:05/03/2024, 12-55-32:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 12-55-33:[focused_window]:None 
+05/03/2024, 12-55-33:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+05/03/2024, 12-55-35:[focused_window]:None 
+05/03/2024, 12-55-35:[focused_window]: 
+05/03/2024, 12-55-35:[focused_window]:None05/03/2024, 12-55-35:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-00-35:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-00-55:[focused_window]:client 
+05/03/2024, 13-00-57:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-01-08:[focused_window]: 
+05/03/2024, 13-01-09:[focused_window]:‫ללא שם - Google Chrome‬ 
+05/03/2024, 13-01-09:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-01-17:[keypress]:helllo[space]my[space]name[space]us[backspace][backspace] 
+05/03/2024, 13-01-25:[focused_window]:‫קורסים דיגיטליים - חברה ורוח: התחברות למערכת - Google Chrome‬ 
+05/03/2024, 13-01-31:[focused_window]: 
+05/03/2024, 13-01-32:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-01-36:[focused_window]:‫קורסים דיגיטליים - חברה ורוח: התחברות למערכת - Google Chrome‬ 
+05/03/2024, 13-01-37:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-01-41:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-01-42:[focused_window]:‫בית חינוך שש שנתי בן גוריון –  
+05/03/2024, 13-01-42:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+05/03/2024, 13-01-42:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-09-23:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-11-18:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-11-30:[focused_window]:client 
+05/03/2024, 13-11-34:[focused_window]: 
+05/03/2024, 13-11-34:[focused_window]:‫ללא שם - Google Chrome‬ 
+05/03/2024, 13-11-34:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-11-37:[focused_window]:‫בית חינוך שש שנתי בן גוריון – בית חינוך שש שנתי בן גוריון פתח תקוה - Google Chrome‬ 
+05/03/2024, 13-11-38:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-11-44:[focused_window]:Program Manager 
+05/03/2024, 13-11-45:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-13-07:[focused_window]:‫Yahoo הוא חלק ממשפחת המותגים של Yahoo. - Google Chrome‬ 
+05/03/2024, 13-13-13:[focused_window]:‫כרטיסייה חדשה - Google Chrome‬ 
+05/03/2024, 13-13-25:[focused_window]:‫12121212121212121 - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 13-13-27:[focused_window]:None 
+05/03/2024, 13-13-27:[focused_window]: 
+05/03/2024, 13-13-28:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-20-11:[focused_window]:‫12121212121212121 - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 13-20-15:[focused_window]: 
+05/03/2024, 13-20-15:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-20-52:[focused_window]:‫12121212121212121 - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 13-20-56:[focused_window]:client 
+05/03/2024, 13-20-58:[focused_window]:‫12121212121212121 - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 13-21-25:[focused_window]: 
+05/03/2024, 13-21-25:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-22-51:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-23-20:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-23-23:[keypress]:[space]fad[space]fa[space]lkj;fd[space]af[space]ad 
+05/03/2024, 13-23-26:[keypress]:lkj;f[space]ad[space]lkj;fas[space]fadf[space]adsf 
+05/03/2024, 13-24-13:[focused_window]:C:\Windows\py.exe 
+05/03/2024, 13-24-32:[keypress]:lj[space][shift]DS[space]f;lhs 
+05/03/2024, 13-24-47:[keypress]:f[space]l;kadf[space]dsfads[space] 
+05/03/2024, 13-24-48:[keypress]:dsfdsf[space][space]d[space]sf 
+05/03/2024, 13-24-49:[keypress]:s[space]dfsd[space]fsd[space]f 
+05/03/2024, 13-24-51:[keypress]:ds[space]dsf[space][space]fds[space] 
+05/03/2024, 13-24-54:[focused_window]:‫12121212121212121 - חיפוש ב-Google - Google Chrome‬ 
+05/03/2024, 13-24-58:[keypress]:how[space]tobake[space]piues[space] 
+05/03/2024, 13-24-59:[keypress]:[backspace][backspace][backspace] 
+05/03/2024, 13-25-00:[keypress]:[backspace]s[space][backspace] 
+05/03/2024, 13-25-08:[keypress]:[backspace]es[space]hello[space] 
+05/03/2024, 13-25-12:[keypress]:my[space]name[space]is[space]o 
+05/03/2024, 13-25-19:[keypress]:fek[space]andi[space][space][ctrl] 
+05/03/2024, 13-25-22:[focused_window]:C:\Windows\py.exe 
